@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "1c793a2860dd8e1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "749f773bcdd47bd8",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Create a new project in Android studio.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "efb1d02c01307c9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f54708eb8e665d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2e6a60235254454",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7f806df5fbdb252",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b8743bdab945af1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4f2702297d55fa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb98a68760a00166",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Create a new project in Android studio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Create a new project in Android studio.md",
+    "Project workflow.md",
+    "Untitled.md"
+  ]
+}

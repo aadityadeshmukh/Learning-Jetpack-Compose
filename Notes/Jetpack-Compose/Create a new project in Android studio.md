@@ -1,0 +1,5 @@
+- Click on *file*
+- *new*
+- *new project*
+- Select *Empty Compose activity*
+- 
