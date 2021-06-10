@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Composable Functions.md",
+            "file": "Layout basics.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Composable Functions.md",
+                "file": "Layout basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +86,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Composable Functions.md",
     "Untitled.md",
     "Project workflow.md",
+    "Adding text.md",
+    "Composable Functions.md",
     "Create a new project in Android studio.md"
   ]
 }

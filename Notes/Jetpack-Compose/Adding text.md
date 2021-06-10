@@ -7,3 +7,5 @@
 	- Jetpack Compose uses a special compiler to create layout
 - Example is a Text function:
 	- If you want to add a text function you do so by adding `Text("")` to setContent
+
+Next up [[Layout basics]]
