@@ -2,3 +2,4 @@
 - 2 [[Composable Functions]]
 - 3 [[Adding text]]
 - 4 [[Layout basics]]
+- 5 [[Adding Images]]

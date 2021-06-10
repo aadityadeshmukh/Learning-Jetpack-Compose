@@ -10,3 +10,5 @@
 - `Column` takes parameters that define the style
 - `modifier` lets you configure the layout
 - `Modifier.padding` insets the column from the surrounding view
+
+Next up [[Adding Images]]
