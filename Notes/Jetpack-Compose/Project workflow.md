@@ -1,1 +1,3 @@
 - 1 [[Create a new project in Android studio]]
+- 2 [[Composable Functions]]
+- 3 [[Adding text]]
