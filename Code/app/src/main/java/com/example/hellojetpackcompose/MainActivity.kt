@@ -32,6 +32,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun NewsStory() {
     MaterialTheme {
+        val Typography = MaterialTheme.typography
         Column(
             modifier = Modifier.padding(16.dp)
         ){
@@ -44,9 +45,9 @@ fun NewsStory() {
                 contentScale = ContentScale.Crop)
             Spacer(modifier = Modifier.height(16.dp))
 
-            Text("A day in Shark fin cove")
-            Text("Davenport California")
-            Text("December, 2021")
+            Text("A day in Shark fin cove", style = Typography.h6)
+            Text("Davenport California", style = Typography.body2)
+            Text("December, 2021", style = Typography.body2)
         }
     }
 }
