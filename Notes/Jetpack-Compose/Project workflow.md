@@ -3,3 +3,4 @@
 - 3 [[Adding text]]
 - 4 [[Layout basics]]
 - 5 [[Adding Images]]
+- 6 [[Material Theme]]

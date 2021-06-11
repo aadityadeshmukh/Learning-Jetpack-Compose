@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adding Images.md",
+            "file": "Material Theme.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adding Images.md",
+                "file": "Material Theme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Adding Images.md",
     "Untitled.md",
+    "Adding Images.md",
     "Project workflow.md",
     "Layout basics.md",
     "Create a new project in Android studio.md",
