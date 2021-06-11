@@ -11,3 +11,8 @@
 - Pass fillMaxWidth to specify that the image should take the width of the element it bleongs to
 - Pass contentScale to specify that the grpahic should fill the width of the column
 - contentScale.crop crops the graphic to necessary height
+
+## Spacing
+
+- `Spacer` function adds space with defined `modifier`
+- `Modifier.height` adds a vertical spacer
