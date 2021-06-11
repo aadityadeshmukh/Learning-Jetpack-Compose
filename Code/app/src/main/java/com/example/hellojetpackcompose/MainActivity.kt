@@ -15,6 +15,7 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.focus.focusModifier
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.hellojetpackcompose.ui.theme.HelloJetpackComposeTheme
@@ -45,7 +46,9 @@ fun NewsStory() {
                 contentScale = ContentScale.Crop)
             Spacer(modifier = Modifier.height(16.dp))
 
-            Text("A day in Shark fin cove", style = Typography.h6)
+            Text("A day wandering through the sandhills " +
+                    "in Shark Fin Cove, and a few of the " +
+                    "sights I saw", style = Typography.h6, maxLines = 2, overflow = TextOverflow.Ellipsis)
             Text("Davenport California", style = Typography.body2)
             Text("December, 2021", style = Typography.body2)
         }
